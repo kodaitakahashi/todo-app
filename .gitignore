@@ -26,3 +26,5 @@ Temporary Items
 .apdisk
 
 target
+.lein-repl-history
+*.swp
